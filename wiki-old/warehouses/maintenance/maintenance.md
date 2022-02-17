@@ -29,63 +29,63 @@ Onde tem produto vai substituir por item e componente. Criando depósitos e suas
 
 ### <a name="mockups-subcategoria"></a>Subcategoria [_topo_](#anchor-sumario)
 
-![Dep_FE_MT_SEG_Q_AU_subcategoria](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/image.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/init.png)
 
 #### Atualizado
 
-![image](uploads/03f46968147af13d88d284605a8d23c1/image.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/atualizado.png)
 _O desenho está confuso. O que está sendo dito é que a categoria possui valores pré-cadastrados e que eles (os valores) não são cadastrados pelo usuário._
 
 ### <a name="mockups-item"></a>Item [_topo_](#anchor-sumario)
 
 #### Atualizado
 
-![image__1_](uploads/ecc62a00879bc97f534c1bf2f1740dd1/image__1_.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/atualizado2.png)
 _A quantidade atual tem dois valores diferentes, dependendo de onde está sendo vista. Se estiver na "visão geral" é soma de quantidade atual do produto em todos os subdepósitos do "Manutenção", se estiver em um subdepósito, é a quantidade do produto naquele subdep. Já o **mínimo** e o **máximo** são os valores cadastrados no Item._
 
 ### <a name="mockups-subdeposito"></a>Criar Subdepósito [_topo_](#anchor-sumario)
 
-![Dep_FE_MT_SEG_Q_AU_criar_subdepósito](uploads/66f895dce295b04762ed4455946a8dbc/Dep_FE_MT_SEG_Q_AU_criar_subdepósito.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/criarsub.png)
 
 #### Atualizado
 
-![image](uploads/f9633a44cb69872d80d741f3c09cc939/image.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/criarsub1.png)
 
 ### <a name="mockups-geral-subdeposito"></a>Visão geral do subdepósito [_topo_](#anchor-sumario)
 
-![deposito](uploads/9dfe991671060b78c8aac6736ad29e7f/deposito.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/view.png)
 
 #### Atualizado
 
-![image__3_](uploads/7c0286a541cce2ac433c22aef0689787/image__3_.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/view1.png)
 
 ### <a name="mockups-posicao"></a>Posição [_topo_](#anchor-sumario)
 
-![Dep_FE_MT_SEG_Q_AU_gerenciamento_posições](uploads/92d9de9a427f4bb89d836ec441ce13c8/Dep_FE_MT_SEG_Q_AU_gerenciamento_posições.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/position.png)
 
 #### Atualizado
 
-![image](uploads/8490127208354bb0a72e11b940cca240/image.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/position2.png)
 _O formulário de posição possui os mesmos campos que aparecem na tabela (Rua, Prédio, Andar, Apartamento e Código). Para chegar nessa tela o usuário deverá clicar em "Gerenciamento de Subdepósito" na tela [anterior](#mockups-geral-subdeposito)_
 
 ### <a name="mockups-gerenciar-subdeposito"></a>Movimentação do Subdepósito [_topo_](#anchor-sumario)
 
-![Dep_FE_MT_SEG_Q_AU_gerenciar_subdepósito](uploads/7d214475a6ac736977ea82d89ef23bba/Dep_FE_MT_SEG_Q_AU_gerenciar_subdepósito.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/mov.png)
 
 #### Atualizado
 
 ##### Entrada
 
-![image](uploads/0df85744e52d1f43ee45d26826364491/image.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/in.png)
 
 ##### Retirada
 
-![image](uploads/663419a0b92ab08b088898f6325cb790/image.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/out.png)
 _O desenho do "Destino" está confuso. O que está sendo dito é que o destino da movimentação pode ser tanto para um subdepósito, quanto para um ativo. Sendo uma movimentação para um subdep. a posição deverá ser selecionada. Caso seja para um ativo, o setor deverá ser indicado._
 
 ### <a name="mockups-gerenciar-item"></a>Gerenciar Item [_topo_](#anchor-sumario)
 
-![Dep_FE_MT_SEG_Q_AU_item](uploads/4f494a879e4d93556f40e40f78611074/Dep_FE_MT_SEG_Q_AU_item.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/manage.png)
 _Atenção ao desenho da "Visualização das correlações". Usar o mesmo esquema do Depósito de produtos, um modal, com várias abas para cada correlação._
 
 ## Processo RSP
@@ -170,7 +170,7 @@ RSP - O que **Representa**, para que **Serve** e o que **Pode**
 
 - Durabilidade: Representa a "vida útil" do item. Serve para controle de vida útil. Em ambos os campos podem valores numéricos (inteiros e fracionados) maiores que 0. Ao contrário do que leva a crer o desenho, ao mandar para a API, mandar **o total de horas**. Para isso, multiplicar o número de dias por **24** e somar com as horas, o resultado dessa operação é o que a API receberá. A API somente retornará o total de horas, para poder preencher os campos corretamente, a operação inversa tem que ser realizada.
   As operações podem ser vistas aqui:
-  ![image](uploads/43c90180b9fbaf5cac9912fd34bae9aa/image.png)
+  ![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/maintenance/hours.png)
 - Devolução do item: Representa se o item deve ser devolvido quando ultrapassar sua vida útil. Serve para controle de vida útil. Pode um dos seguintes:
   - Sim (true)
   - Não (false)
