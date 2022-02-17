@@ -5,12 +5,18 @@ O Depósito é onde gerenciamos os produtos, criando, editando, correlacionado (
 Nele nós também categorizamos os produtos (categoria) e criamos o roteiro de operações, com a família e suas linhas de roteiro.
 
 ## Mockups
-![Gerenciamento_de_depósitos1](uploads/1c51a8904a19d7c48085f371efb825be/Gerenciamento_de_depósitos1.png)
-![Gerenciamento_de_depósitos2](uploads/bbc583eed95f7f8855bd3d309f07940d/Gerenciamento_de_depósitos2.png)![Gerenciamento_de_depósitos3](uploads/ac4830135f74264c9d2660324a1fe2f2/Gerenciamento_de_depósitos3.png)
-![Gerenciamento_de_depósitos4](uploads/7d88b8f426857da652f26090c118eb7b/Gerenciamento_de_depósitos4.png)![Gerenciamento_de_depósitos5](uploads/433282b8a64d8b506e946d3b17924a73/Gerenciamento_de_depósitos5.png)![Gerenciamento_de_depósitos6](uploads/e29cba20aaed8894aaf0196da212470a/Gerenciamento_de_depósitos6.png)![Gerenciamento_de_depósitos7](uploads/ab3131ef0888d005d402d91c92e2a6de/Gerenciamento_de_depósitos7.png)![Gerenciamento_de_depósitos8](uploads/94c5b65e13c06cf06c8ab8f99e92065e/Gerenciamento_de_depósitos8.png)![Gerenciamento_de_depósitos9](uploads/380fb1c20e913f6d1cb6df83be60fc66/Gerenciamento_de_depósitos9.png)
-![Gerenciamento_de_depósitos10](uploads/efb78f2c123d73fcc22c66ad919deec6/Gerenciamento_de_depósitos10.png)
-![image](uploads/dfe6052ebef52899bd991745e635ed7c/image.png)
-![image](uploads/fc436f3a2a02524f20d70ad69a584dac/image.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock1.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock2.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock3.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock4.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock5.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock6.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock7.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock8.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock9.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock10.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock11.png)
+![](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/product/mock12.png)
 
 ## Processo RSP
 RSP - O que **Representa**, para que **Serve** e o que **Pode**
