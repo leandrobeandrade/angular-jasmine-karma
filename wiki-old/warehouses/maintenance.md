@@ -29,7 +29,7 @@ Onde tem produto vai substituir por item e componente. Criando depósitos e suas
 
 ### <a name="mockups-subcategoria"></a>Subcategoria [_topo_](#anchor-sumario)
 
-![Dep_FE_MT_SEG_Q_AU_subcategoria](uploads/1aec62194c3c665dd33da7c16d6e0c74/Dep_FE_MT_SEG_Q_AU_subcategoria.png)
+![Dep_FE_MT_SEG_Q_AU_subcategoria](https://github.com/leandrobeandrade/ekaizen-notes/blob/main/wiki-old/warehouses/image.png)
 
 #### Atualizado
 
